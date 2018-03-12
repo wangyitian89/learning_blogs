@@ -1,3 +1,6 @@
+[php 在线手册](http://php.net/manual/en/)
+[下载 php 的手册](http://php.net/download-docs.php)
+
 ## PHP数组排序  
 
 > 摘录自php_manual手册
